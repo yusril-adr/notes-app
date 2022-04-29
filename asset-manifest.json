@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/notes-app/static/css/main.cf524672.css",
+    "main.js": "/notes-app/static/js/main.63e0c625.js",
+    "static/js/377.d2654c1a.chunk.js": "/notes-app/static/js/377.d2654c1a.chunk.js",
+    "static/media/lexend-all-700-normal.woff": "/notes-app/static/media/lexend-all-700-normal.0d0fed59201445c9a871.woff",
+    "static/media/lexend-all-500-normal.woff": "/notes-app/static/media/lexend-all-500-normal.1e84572a48a507515a50.woff",
+    "static/media/lexend-all-300-normal.woff": "/notes-app/static/media/lexend-all-300-normal.9b17d0d23504d9481ca0.woff",
+    "static/media/lexend-all-400-normal.woff": "/notes-app/static/media/lexend-all-400-normal.ded5a4c4d1d79a870503.woff",
+    "static/media/lexend-latin-500-normal.woff2": "/notes-app/static/media/lexend-latin-500-normal.1aef3a53a50c1f5d4760.woff2",
+    "static/media/lexend-latin-700-normal.woff2": "/notes-app/static/media/lexend-latin-700-normal.b0807ffaa1c5e0b9e866.woff2",
+    "static/media/lexend-latin-300-normal.woff2": "/notes-app/static/media/lexend-latin-300-normal.130ecc29807ae43c485a.woff2",
+    "static/media/lexend-latin-400-normal.woff2": "/notes-app/static/media/lexend-latin-400-normal.94fcd322b72dc8f9bc06.woff2",
+    "static/media/lexend-latin-ext-700-normal.woff2": "/notes-app/static/media/lexend-latin-ext-700-normal.37e6d41f29ee510f85ac.woff2",
+    "static/media/lexend-latin-ext-500-normal.woff2": "/notes-app/static/media/lexend-latin-ext-500-normal.c5efa702be4018e38415.woff2",
+    "static/media/lexend-latin-ext-300-normal.woff2": "/notes-app/static/media/lexend-latin-ext-300-normal.302d553c6c72cd3d1c2e.woff2",
+    "static/media/lexend-latin-ext-400-normal.woff2": "/notes-app/static/media/lexend-latin-ext-400-normal.e103e62b2b685a935621.woff2",
+    "static/media/lexend-vietnamese-700-normal.woff2": "/notes-app/static/media/lexend-vietnamese-700-normal.9b457b4f7e71af1a7bd2.woff2",
+    "static/media/lexend-vietnamese-500-normal.woff2": "/notes-app/static/media/lexend-vietnamese-500-normal.f90f1b9653127da6c1ef.woff2",
+    "static/media/lexend-vietnamese-300-normal.woff2": "/notes-app/static/media/lexend-vietnamese-300-normal.cb536250c73c750e1239.woff2",
+    "static/media/lexend-vietnamese-400-normal.woff2": "/notes-app/static/media/lexend-vietnamese-400-normal.236091dc0e9c0c3f078b.woff2",
+    "index.html": "/notes-app/index.html",
+    "main.cf524672.css.map": "/notes-app/static/css/main.cf524672.css.map",
+    "main.63e0c625.js.map": "/notes-app/static/js/main.63e0c625.js.map",
+    "377.d2654c1a.chunk.js.map": "/notes-app/static/js/377.d2654c1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf524672.css",
+    "static/js/main.63e0c625.js"
+  ]
+}
