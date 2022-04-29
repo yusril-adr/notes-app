@@ -30,8 +30,7 @@ jobs:
     - run: npm run build --if-present
     
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@v4.2.5
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
-        ACCESS_TOKEN: ${{ secrets.GH_DOCS }}
         branch: gh-pages # The branch the action should deploy to.
         folder: build # The folder the action should deploy.
