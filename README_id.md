@@ -1,23 +1,23 @@
 ## Notes app
 Ini adalah source code dari aplikasi CRUD pencatatan dengan tujuan saya mendalami Chakra UI dan menyelesaikan kelas "Belajar Membuat Aplikasi Web dengan React" dari Dicoding.
 
-## Another Language
-- [Indonesia](./README_id.md)
+## Bahasa Lain
+- [English](./README.md)
 
 ## Website
 https://yusril-adr.github.io/notes-app
 
-## How to Run App
-- Be sure your computer is already installed node.js and npm.
-- Install the module with command : 
+## Cara Menjalankan Aplikasi
+- Pastikan node.js dan npm sudah terinstall di perangkat anda.
+- Install module yang dibutuhkan dengan perintah : 
 ```bash 
   npm install
 ```
-- Run developer mode by command :
+- Jalankan server mode developer dengan perintah :
 ```bash 
-  npm run server
+  npm start
 ```
-- Or if you want to build production mode you can run this command :
+- Atau jika anda ingin membuild mode production, jalankan perintah : 
 ```bash 
   npm run build
 ```
