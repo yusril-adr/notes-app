@@ -81,7 +81,7 @@ const AddNoteForm = ({ onUpdate, ...props }) => {
 
       <Modal
         isOpen={isOpen}
-        onClose={onClose}
+        onClose={onCancelHandler}
       >
         <ModalOverlay />
         <ModalContent as="form" onSubmit={onSubmitHandler}>
