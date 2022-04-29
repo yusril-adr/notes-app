@@ -18,7 +18,7 @@ const AppBar = ({ onSearch, ...props }) => {
       position="sticky"
       top="0"
       bg={bgColor}
-      zIndex="9999"
+      zIndex="999"
     >
       <Container
         fontSize="xl"
