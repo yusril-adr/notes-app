@@ -34,7 +34,7 @@ const App = () => {
       <SkipNavLink zIndex="9999">Skip to content</SkipNavLink>
       <AppBar maxW="8xl" onSearch={setKeyword} />
 
-      <Container maxW="8xl">
+      <Container as="main" maxW="8xl">
         <AddNoteForm mt="16" mb="20" onUpdate={updateNotes} />
 
         <SkipNavContent />
@@ -42,8 +42,10 @@ const App = () => {
 
         <NoteList title="Archives" mt="16" notes={archivedNotes} onUpdate={updateNotes} />
 
-        <Footer my="16" />
       </Container>
+
+      <Footer my="16" />
+
     </>
   );
 };

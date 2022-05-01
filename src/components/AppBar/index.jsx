@@ -15,6 +15,7 @@ const AppBar = ({ onSearch, ...props }) => {
 
   return (
     <Box
+      as="header"
       position="sticky"
       top="0"
       bg={bgColor}
