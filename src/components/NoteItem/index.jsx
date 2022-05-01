@@ -49,7 +49,7 @@ const NoteItem = ({
       borderRadius="lg"
       p={4}
     >
-      <Heading as="h3" fontSize="lg">
+      <Heading as="h3" fontSize="lg" wordBreak="break-word">
         {title}
       </Heading>
 
