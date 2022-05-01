@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <>
-      <SkipNavLink>Skip to content</SkipNavLink>
+      <SkipNavLink zIndex="9999">Skip to content</SkipNavLink>
       <AppBar maxW="8xl" onSearch={setKeyword} />
 
       <Container maxW="8xl">
