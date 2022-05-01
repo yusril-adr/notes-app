@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/notes-app/static/css/main.cf524672.css",
-    "main.js": "/notes-app/static/js/main.7da5f167.js",
+    "main.js": "/notes-app/static/js/main.4f84b92c.js",
     "static/js/377.d2654c1a.chunk.js": "/notes-app/static/js/377.d2654c1a.chunk.js",
     "static/media/lexend-all-700-normal.woff": "/notes-app/static/media/lexend-all-700-normal.0d0fed59201445c9a871.woff",
     "static/media/lexend-all-500-normal.woff": "/notes-app/static/media/lexend-all-500-normal.1e84572a48a507515a50.woff",
@@ -21,11 +21,11 @@
     "static/media/lexend-vietnamese-400-normal.woff2": "/notes-app/static/media/lexend-vietnamese-400-normal.236091dc0e9c0c3f078b.woff2",
     "index.html": "/notes-app/index.html",
     "main.cf524672.css.map": "/notes-app/static/css/main.cf524672.css.map",
-    "main.7da5f167.js.map": "/notes-app/static/js/main.7da5f167.js.map",
+    "main.4f84b92c.js.map": "/notes-app/static/js/main.4f84b92c.js.map",
     "377.d2654c1a.chunk.js.map": "/notes-app/static/js/377.d2654c1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf524672.css",
-    "static/js/main.7da5f167.js"
+    "static/js/main.4f84b92c.js"
   ]
 }
