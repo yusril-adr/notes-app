@@ -23,11 +23,15 @@ const SearchBar = ({ onSearch }) => {
     setKeyword(event.target.value);
   };
 
+  const onCloseHandler = () => {
+    onClose();
+    setKeyword('');
+  };
+
   const onSubmitHandler = (event) => {
     event.preventDefault();
     onSearch(keyword);
-    onClose();
-    setKeyword('');
+    onCloseHandler();
   };
 
   return (
@@ -52,7 +56,7 @@ const SearchBar = ({ onSearch }) => {
         onClick={onOpen}
       />
 
-      <Modal isOpen={isOpen} onClose={onClose}>
+      <Modal isOpen={isOpen} onClose={onCloseHandler}>
         <ModalOverlay px={[3, 0]} />
 
         <ModalContent>
