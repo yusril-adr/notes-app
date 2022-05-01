@@ -58,7 +58,9 @@ const NoteItem = ({
         {DateParser.showFormattedDate(createdAt)}
       </Text>
 
-      <Text>
+      <Text
+        wordBreak="break-word"
+      >
         {body}
       </Text>
 
