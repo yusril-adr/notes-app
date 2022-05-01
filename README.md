@@ -1,6 +1,5 @@
 ## Notes app
-Ini adalah source code dari aplikasi CRUD pencatatan dengan tujuan saya mendalami Chakra UI dan menyelesaikan kelas "Belajar Membuat Aplikasi Web dengan React" dari Dicoding.
-
+This is the source code from my CRUD notes app. I created this app with the purpose of learning of Chakra UI and complete a class of "Create an Web App with React" from Dicoding.
 ## Another Language
 - [Indonesia](./README_id.md)
 
