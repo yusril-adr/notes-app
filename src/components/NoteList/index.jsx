@@ -9,6 +9,7 @@ import {
 
 // Global Components
 import NoteItem from '../NoteItem';
+import NoteItemEmpty from '../NoteItemEmpty';
 
 const NoteList = ({
   title, notes, onUpdate, ...props
@@ -33,6 +34,12 @@ const NoteList = ({
         xl: 'repeat(4, 1fr)',
       }}
     >
+      {notes?.length < 1 && (
+        <GridItem colSpan={4}>
+          <NoteItemEmpty />
+        </GridItem>
+      )}
+
       {notes.map((note) => (
         <GridItem key={note.id}>
           <NoteItem
